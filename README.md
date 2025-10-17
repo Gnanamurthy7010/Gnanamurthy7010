@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Gnana Murthy  
-💻 Third-year Computer Science Student | Full Stack Developer  
+💻 Final-year Computer Science Student |  Developer  
 
 ---
 
@@ -18,6 +18,11 @@
 **Backend:** Node.js, Express,  
 **Database:** MongoDB, MySQL  
 **Tools:** Git, GitHub, VS Code, Postman
+
+---
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gnanamurthy_2004/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/j_gnanamgnanamu1)
 
 ---
 
